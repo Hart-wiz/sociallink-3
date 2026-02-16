@@ -64,3 +64,8 @@ body {
   border: none;
   border-radius: 9%;
 }
+.btns button:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+  cursor: pointer;
+}
